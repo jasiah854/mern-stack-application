@@ -1,0 +1,13 @@
+*, *::before, *::after{
+    box-sizing: border-box;
+}
+body{
+    padding: 0;
+    margin: 0;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+}
+.j-class{
+    margin: 10px auto;
+}
